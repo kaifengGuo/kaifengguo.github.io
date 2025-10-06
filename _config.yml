@@ -23,7 +23,7 @@ repository               : "kaifengGuo"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoyo2.jpg"
+  avatar           : "/images/myphoyo2.jpg"
   name             : "Kaifeng Guo"
   pronouns         : # example: "she/her"  
   bio              : "Full time PhD of City University of HongKong"
