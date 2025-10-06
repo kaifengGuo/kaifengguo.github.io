@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have joined [Applied Machine Learning Lab](https://aml-cityu.github.io/) and will be pursuing a PhD in Data Science at City University of Hong Kong in January 2026 under the supervision of [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/).
+I have joined [Applied Machine Learning Lab](https://aml-cityu.github.io/) will commence my PhD studies in Data Science at City University of Hong Kong in January 2026, under the supervision of [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). Prior to starting my doctoral studies, I received my Bachelor degree from [FZU](https://www.fzu.edu.cn/) in 2025.
 
 My research interests focus on Large Language Models, Recommender System.
 
