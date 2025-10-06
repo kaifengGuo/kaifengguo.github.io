@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I have joined AML (https://aml-cityu.github.io/) and will be pursuing a PhD in Data Science at City University of Hong Kong in January 2026.
+I have joined [Applied Machine Learning Lab](https://aml-cityu.github.io/) and will be pursuing a PhD in Data Science at City University of Hong Kong in January 2026 under the supervision of [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests focus on Large Language Models, Recommender System.
 
 A data-driven personal website
 ======
