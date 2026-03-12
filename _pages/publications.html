@@ -3,16 +3,23 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+excerpt: "Publications and scholarly profiles for Kaifeng Guo."
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com.sg/citations?user=0ZpWu1IAAAAJ&hl=zh-CN&authuser=1">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="home-card home-card--full">
+  <p>This page will be updated as papers and preprints become available. The most up-to-date record of my work is currently maintained on external scholarly profiles.</p>
+  <div class="home-intro__actions">
+    <a class="btn btn--primary" href="https://scholar.google.com.sg/citations?user=0ZpWu1IAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>
+    <a class="btn btn--inverse" href="https://orcid.org/0009-0004-2484-1004">ORCID</a>
+  </div>
+</div>
 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+{% if site.publications.size == 0 %}
+  <p>No publications have been added to this site yet.</p>
+{% elsif site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -31,6 +38,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 
