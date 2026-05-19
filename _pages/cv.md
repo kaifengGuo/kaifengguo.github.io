@@ -28,7 +28,7 @@ Experience
 
 Publications
 ======
-* **Kaifeng Guo**, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, and Xiangyu Zhao. "Hierarchical Residual Policy Optimization for Generative Recommendations." KDD 2026 Research Track. [OpenReview](https://openreview.net/forum?id=VgfbwTOwCp)
+* **Kaifeng Guo**, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, and Xiangyu Zhao. "Hierarchical Residual Policy Optimization for Generative Recommendations." KDD 2026 Research Track.
 
 Profiles
 ======

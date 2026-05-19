@@ -30,7 +30,7 @@ redirect_from:
     <ol class="home-timeline">
       <li>
         <strong>Paper accepted to KDD 2026 Research Track</strong>
-        <span class="home-timeline__date">May 2026 · <a href="https://openreview.net/forum?id=VgfbwTOwCp">Hierarchical Residual Policy Optimization for Generative Recommendations</a></span>
+        <span class="home-timeline__date">May 2026 · Hierarchical Residual Policy Optimization for Generative Recommendations</span>
       </li>
     </ol>
   </section>
@@ -39,7 +39,7 @@ redirect_from:
     <h2>Selected Publication</h2>
     <p><strong>Hierarchical Residual Policy Optimization for Generative Recommendations</strong><br>
     <strong>Kaifeng Guo</strong>, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, and Xiangyu Zhao.<br>
-    <em>KDD 2026 Research Track</em>. <a href="https://openreview.net/forum?id=VgfbwTOwCp">OpenReview</a></p>
+    <em>KDD 2026 Research Track</em>.</p>
   </section>
 
   <section class="home-card">
