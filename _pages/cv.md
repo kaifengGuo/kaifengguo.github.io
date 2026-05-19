@@ -26,6 +26,10 @@ Experience
 ======
 * Research Intern, Kuaishou, Beijing, Oct 2025 - Present
 
+Publications
+======
+* **Kaifeng Guo**, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, and Xiangyu Zhao. "Hierarchical Residual Policy Optimization for Generative Recommendations." KDD 2026 Research Track. [OpenReview](https://openreview.net/forum?id=VgfbwTOwCp)
+
 Profiles
 ======
 * Email: [kendeguo@gmail.com](mailto:kendeguo@gmail.com)
