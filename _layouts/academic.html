@@ -29,13 +29,11 @@
           <a href="#publications">Publications</a>
           <a href="#education">Education</a>
           <a href="#experience">Experience</a>
-          <a href="{{ '/cv/' | relative_url }}">CV <svg class="icon icon--small" aria-hidden="true"><use href="#icon-arrow"/></svg></a>
         </div>
       </nav>
     </header>
     <div class="academic-layout">
       <aside class="profile" aria-label="Personal information">
-        <img class="profile__photo" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="Portrait of {{ site.author.name | escape }}" width="170" height="170" fetchpriority="high">
         <div class="profile__identity">
           <p class="profile__name">{{ site.author.name }}</p>
           <p class="profile__role">PhD Student in Data Science</p>
@@ -48,7 +46,6 @@
           <li><a href="https://github.com/{{ site.author.github }}"><svg class="icon" aria-hidden="true"><use href="#icon-github"/></svg><span>GitHub</span></a></li>
           <li><a href="{{ site.author.googlescholar }}"><svg class="icon" aria-hidden="true"><use href="#icon-scholar"/></svg><span>Google Scholar</span></a></li>
           <li><a href="{{ site.author.orcid }}"><svg class="icon" aria-hidden="true"><use href="#icon-orcid"/></svg><span>ORCID</span></a></li>
-          <li><a href="{{ '/cv/' | relative_url }}"><svg class="icon" aria-hidden="true"><use href="#icon-document"/></svg><span>Curriculum Vitae</span></a></li>
         </ul>
         <p class="profile__email"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
       </aside>
