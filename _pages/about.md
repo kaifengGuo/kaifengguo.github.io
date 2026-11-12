@@ -33,30 +33,6 @@ redirect_from:
     <a href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">↗</span></a>
   </div>
   <article class="publication">
-    <a class="publication__visual" href="{{ '/publication/2026-05-16-hrpo-kdd2026/' | relative_url }}" aria-label="Read about Hierarchical Residual Policy Optimization for Generative Recommendations">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 308" role="img" aria-labelledby="hrpo-diagram-title hrpo-diagram-description">
-        <title id="hrpo-diagram-title">HRPO: Hierarchical Residual Policy Optimization</title>
-        <desc id="hrpo-diagram-description">A conceptual overview: item-level feedback is converted into token-aligned residual credits for policy optimization in generative recommendation.</desc>
-        <rect width="450" height="308" fill="#f7f9fc"/>
-        <text x="25" y="40" fill="#315e8e" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">GENERATIVE RECOMMENDATION</text>
-        <text x="25" y="84" fill="#2b3b50" font-family="Arial,sans-serif" font-size="34" font-weight="700">HRPO</text>
-        <text x="25" y="111" fill="#778292" font-family="Arial,sans-serif" font-size="13">From item-level outcomes to token-level learning</text>
-        <path d="M127 177h46m104 0h46" fill="none" stroke="#a9bacf" stroke-width="2"/>
-        <path d="m166 172 7 5-7 5m150-10 7 5-7 5" fill="none" stroke="#a9bacf" stroke-width="2"/>
-        <rect x="25" y="147" width="102" height="62" rx="6" fill="#fff" stroke="#dce4ee"/>
-        <rect x="173" y="147" width="104" height="62" rx="6" fill="#e8f0fa" stroke="#cddded"/>
-        <rect x="323" y="147" width="102" height="62" rx="6" fill="#fff" stroke="#dce4ee"/>
-        <text x="76" y="174" text-anchor="middle" fill="#536176" font-family="Arial,sans-serif" font-size="13">Item-level</text>
-        <text x="76" y="193" text-anchor="middle" fill="#536176" font-family="Arial,sans-serif" font-size="13">feedback</text>
-        <text x="225" y="174" text-anchor="middle" fill="#315e8e" font-family="Arial,sans-serif" font-size="13" font-weight="700">Residual</text>
-        <text x="225" y="193" text-anchor="middle" fill="#315e8e" font-family="Arial,sans-serif" font-size="13" font-weight="700">credits</text>
-        <text x="374" y="174" text-anchor="middle" fill="#536176" font-family="Arial,sans-serif" font-size="13">Policy</text>
-        <text x="374" y="193" text-anchor="middle" fill="#536176" font-family="Arial,sans-serif" font-size="13">optimization</text>
-        <path d="M25 242h400" fill="none" stroke="#e2e8f0"/>
-        <text x="25" y="274" fill="#7d8795" font-family="Arial,sans-serif" font-size="11">CONCEPTUAL OVERVIEW</text>
-        <text x="425" y="274" text-anchor="end" fill="#315e8e" font-family="Arial,sans-serif" font-size="12" font-weight="700">KDD 2026</text>
-      </svg>
-    </a>
     <div class="publication__body">
       <span class="publication__venue">KDD 2026 · Research Track</span>
       <h3><a href="{{ '/publication/2026-05-16-hrpo-kdd2026/' | relative_url }}">Hierarchical Residual Policy Optimization for Generative Recommendations</a></h3>
