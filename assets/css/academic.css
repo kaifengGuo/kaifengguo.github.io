@@ -37,8 +37,7 @@ img { display: block; max-width: 100%; }
 .navigation__links a[aria-current]::after { position: absolute; right: 0; bottom: -1px; left: 0; height: 2px; content: ""; background: var(--link); }
 .academic-layout { display: grid; grid-template-columns: 198px minmax(0, 1fr); gap: 66px; max-width: 1200px; margin: 0 auto; padding: 49px 30px 24px; }
 .profile { align-self: start; position: sticky; top: 109px; }
-.profile__photo { width: 170px; height: 170px; padding: 5px; border: 1px solid #e6ebef; border-radius: 50%; object-fit: cover; object-position: 50% 42%; }
-.profile__name { margin: 19px 0 4px; color: #323840; font-size: 24px; font-weight: 700; letter-spacing: -.6px; line-height: 1.35; }
+.profile__name { margin: 0 0 4px; color: #323840; font-size: 24px; font-weight: 700; letter-spacing: -.6px; line-height: 1.35; }
 .profile__role { margin: 0 0 5px; font-size: 14px; line-height: 1.7; }
 .profile__university, .profile__lab { display: block; font-size: 13px; line-height: 1.8; text-decoration: none; }
 .profile__university { color: #515b66; }
@@ -121,7 +120,6 @@ img { display: block; max-width: 100%; }
   .navigation__links a { padding: 11px 0 12px; font-size: 12px; }
   .academic-layout { grid-template-columns: 160px minmax(0, 1fr); gap: 30px; padding: 33px 24px 20px; }
   .profile { top: 126px; }
-  .profile__photo { width: 140px; height: 140px; }
   .profile__name { font-size: 22px; }
   .profile__university, .profile__lab { font-size: 12px; }
   .academic-section h1, .academic-section h2 { font-size: 21px; }
@@ -133,8 +131,7 @@ img { display: block; max-width: 100%; }
   .navigation { padding-right: 20px; padding-left: 20px; }
   .navigation__links { gap: 22px; }
   .academic-layout { display: block; padding: 27px 20px 20px; }
-  .profile { position: static; display: grid; grid-template-columns: 94px minmax(0, 1fr); gap: 0 19px; margin-bottom: 33px; padding-bottom: 24px; border-bottom: 1px solid var(--line); }
-  .profile__photo { width: 94px; height: 94px; padding: 3px; }
+  .profile { position: static; display: block; margin-bottom: 33px; padding-bottom: 24px; border-bottom: 1px solid var(--line); }
   .profile__name { margin: 2px 0 3px; font-size: 23px; }
   .profile__role { font-size: 12px; }
   .profile__university { font-size: 11px; }
