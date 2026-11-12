@@ -15,7 +15,7 @@ redirect_from:
   <p>Hi, I am <strong>Kaifeng Guo</strong>, a PhD student in Data Science at <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>, advised by <a href="https://zhaoxyai.github.io/">Prof. Xiangyu Zhao</a> in the <a href="https://aml-cityu.github.io/">Applied Machine Learning Lab</a>. I started my PhD in January 2026.</p>
   <p>Previously, I received my bachelor's degree from <a href="https://www.fzu.edu.cn/">Fuzhou University</a> in 2025. I have been a research intern at <strong>Kuaishou</strong>, Beijing, since October 2025.</p>
   <p class="research-interests"><strong>Research interests:</strong> Large Language Models, Recommender Systems, and Practical Machine Learning. I am interested in building robust and efficient machine learning systems for real-world applications.</p>
-  <p class="inline-links"><a href="{{ '/cv/' | relative_url }}"><svg class="icon" aria-hidden="true"><use href="#icon-document"/></svg> Curriculum Vitae</a><a href="mailto:{{ site.author.email }}"><svg class="icon" aria-hidden="true"><use href="#icon-mail"/></svg> Get in touch</a></p>
+  <p class="inline-links"><a href="mailto:{{ site.author.email }}"><svg class="icon" aria-hidden="true"><use href="#icon-mail"/></svg> Get in touch</a></p>
 </section>
 
 <section class="academic-section" id="news">

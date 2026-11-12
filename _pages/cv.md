@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+published: false
 excerpt: "Curriculum vitae for Kaifeng Guo."
 redirect_from:
   - /resume
