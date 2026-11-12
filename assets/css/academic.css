@@ -71,9 +71,7 @@ img { display: block; max-width: 100%; }
 .section-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; border-bottom: 1px solid var(--line); margin-bottom: 22px; }
 .section-heading h2 { margin-bottom: 0; border: 0; }
 .section-heading > a { flex-shrink: 0; color: var(--muted); font-size: 12px; text-decoration: none; }
-.publication { display: grid; grid-template-columns: 226px minmax(0, 1fr); gap: 26px; align-items: start; }
-.publication__visual { overflow: hidden; border: 1px solid #e6ebf1; border-radius: 5px; background: #f7f9fc; text-decoration: none; }
-.publication__visual svg { display: block; width: 100%; height: auto; }
+.publication { display: block; }
 .publication__venue { display: inline-block; margin: 0 0 8px; padding: 2px 7px; border-radius: 3px; background: #edf3fa; color: #315e8e; font-size: 10px; font-weight: 700; line-height: 1.6; letter-spacing: .25px; }
 .publication h3 { margin: 0 0 9px; font-size: 16px; font-weight: 650; line-height: 1.5; letter-spacing: -.15px; }
 .publication h3 a { color: var(--ink); text-decoration: none; }
@@ -114,7 +112,6 @@ img { display: block; max-width: 100%; }
   .navigation__home { width: 180px; }
   .navigation__links { gap: 21px; }
   .academic-layout { grid-template-columns: 180px minmax(0, 1fr); gap: 38px; }
-  .publication { grid-template-columns: 185px minmax(0, 1fr); gap: 21px; }
 }
 @media (max-width: 800px) {
   html { scroll-padding-top: 115px; }
@@ -129,8 +126,6 @@ img { display: block; max-width: 100%; }
   .profile__university, .profile__lab { font-size: 12px; }
   .academic-section h1, .academic-section h2 { font-size: 21px; }
   .academic-section p { font-size: 14px; }
-  .publication { grid-template-columns: 1fr; gap: 17px; }
-  .publication__visual { max-width: 280px; }
   .history-entry__header { display: block; }
   .history-entry__date { display: block; margin-bottom: 3px; }
 }
@@ -154,7 +149,6 @@ img { display: block; max-width: 100%; }
   .section-heading > a { font-size: 10px; }
   .news-list li { grid-template-columns: 59px minmax(0, 1fr); gap: 8px; font-size: 13px; }
   .news-list time { font-size: 11px; }
-  .publication__visual { width: 100%; max-width: 340px; }
   .publication h3 { font-size: 15px; }
   .publication .publication__authors { font-size: 12px; }
   .citation__body { right: -30px; width: min(320px, 82vw); }
@@ -168,10 +162,9 @@ img { display: block; max-width: 100%; }
   html { scroll-behavior: auto; }
 }
 @media print {
-  .site-header, .skip-link, .citation, .publication__visual, .site-footer { display: none; }
+  .site-header, .skip-link, .citation, .site-footer { display: none; }
   .academic-layout { grid-template-columns: 160px minmax(0, 1fr); gap: 28px; padding: 0; }
   .profile { position: static; }
   .academic-section { break-inside: avoid; }
   a { color: inherit; text-decoration: none; }
-  .publication { display: block; }
 }
