@@ -23,7 +23,7 @@ repository               : "kaifengGuo/kaifengguo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto2.jpg"
+  avatar           :
   name             : "Kaifeng Guo"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Data Science at City University of Hong Kong, advised by Xiangyu Zhao."
@@ -140,7 +140,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "myphoto2.jpg"
+og_image                 :
 og_description           : "Kaifeng Guo's research homepage on large language models and recommender systems."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
