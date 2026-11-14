@@ -39,6 +39,8 @@ redirect_from:
       <p class="publication__authors"><strong>Kaifeng Guo</strong>, Yiming Yang, Jingtong Gao, Guolei Zeng, Fukang Yang, Yukang Liang, Peng Jiang, Qingpeng Cai, and Xiangyu Zhao.</p>
       <p class="publication__description">A post-training framework that turns item-level feedback into dense, token-aligned residual credits for semantic-ID generative recommenders.</p>
       <div class="publication__links">
+        <a href="https://arxiv.org/abs/2608.00750">Paper</a>
+        <a href="https://github.com/Applied-Machine-Learning-Lab/KDD2026-HRPO">Code</a>
         <a href="{{ '/publication/2026-05-16-hrpo-kdd2026/' | relative_url }}">Details <span aria-hidden="true">↗</span></a>
         <a href="{{ '/files/hrpo-kdd2026.bib' | relative_url }}" download>Download BibTeX</a>
         <details class="citation">
