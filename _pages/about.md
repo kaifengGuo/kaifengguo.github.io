@@ -22,7 +22,7 @@ redirect_from:
   <h2><span class="section-emoji" aria-hidden="true">🔥</span> News</h2>
   <ul class="news-list">
     <li><time datetime="2026-11">2026.11</time><span>🎉 Our paper <a href="https://openreview.net/forum?id=CNZYyuXUJu"><strong>From Sessions to Tokens</strong></a> is accepted to <strong>KDD 2027 Research Track</strong>! <a href="https://github.com/Applied-Machine-Learning-Lab/KDD2027-S2TPO">Code <span aria-hidden="true">↗</span></a></span></li>
-    <li><time datetime="2026-05">2026.05</time><span>🎉 Our paper <a href="{{ '/publication/2026-05-16-hrpo-kdd2026/' | relative_url }}"><strong>HRPO</strong></a> is accepted to <strong>KDD 2026 Research Track</strong>!</span></li>
+    <li><time datetime="2026-05">2026.05</time><span>🎉 Our paper <a href="{{ '/publication/2026-05-16-hrpo-kdd2026/' | relative_url }}"><strong>HRPO</strong></a> is accepted to <strong>KDD 2026 Research Track</strong>! <a href="https://github.com/Applied-Machine-Learning-Lab/KDD2026-HRPO">Code <span aria-hidden="true">↗</span></a></span></li>
     <li><time datetime="2026-01">2026.01</time><span>I started my PhD in Data Science at <strong>City University of Hong Kong</strong>.</span></li>
     <li><time datetime="2025-10">2025.10</time><span>I joined <strong>Kuaishou</strong> in Beijing as an algorithm intern.</span></li>
   </ul>
