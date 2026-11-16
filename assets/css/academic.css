@@ -92,9 +92,8 @@ img { display: block; max-width: 100%; }
 .citation [role="status"]:empty { display: none; }
 .history-list { display: grid; gap: 23px; }
 .history-entry { display: grid; grid-template-columns: 42px minmax(0, 1fr); gap: 15px; align-items: start; }
-.history-entry__mark { display: flex; align-items: center; justify-content: center; width: 42px; height: 44px; border: 1px solid #e7eaf0; border-radius: 5px; background: #fafbfd; color: #67717e; font-size: 12px; font-weight: 700; }
-.history-entry__mark--cityu { border-color: #eadfe7; background: #fcf8fb; color: #8e396b; }
-.history-entry__mark--kuaishou { border-color: #f4e4d9; background: #fff9f4; color: #d9712e; }
+.history-entry__mark { display: flex; align-items: center; justify-content: center; width: 42px; height: 44px; }
+.history-entry__mark img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .history-entry__header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
 .history-entry h3 { margin: 0 0 1px; font-size: 14px; font-weight: 650; line-height: 1.7; }
 .history-entry h3 a { color: var(--ink); text-decoration: none; }
@@ -151,7 +150,7 @@ img { display: block; max-width: 100%; }
   .citation__body { right: -30px; width: min(320px, 82vw); }
   .history-list { gap: 21px; }
   .history-entry { grid-template-columns: 37px minmax(0, 1fr); gap: 12px; }
-  .history-entry__mark { width: 37px; height: 40px; font-size: 10px; }
+  .history-entry__mark { width: 37px; height: 40px; }
   .history-entry h3 { font-size: 13px; }
   .site-footer { margin-top: 37px; }
 }
