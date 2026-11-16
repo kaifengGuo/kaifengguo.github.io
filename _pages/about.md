@@ -66,7 +66,7 @@ redirect_from:
   <h2><span class="section-emoji" aria-hidden="true">🎓</span> Education</h2>
   <div class="history-list">
     <article class="history-entry">
-      <div class="history-entry__mark history-entry__mark--cityu" aria-hidden="true">CityU</div>
+      <div class="history-entry__mark" aria-hidden="true"><img src="{{ '/images/cityu-logo.svg' | relative_url }}" alt="" width="262" height="147" loading="lazy" decoding="async"></div>
       <div>
         <div class="history-entry__header"><h3><a href="https://www.cityu.edu.hk/">City University of Hong Kong</a></h3><span class="history-entry__date">Jan 2026 – Present</span></div>
         <p>PhD in Data Science</p>
@@ -74,7 +74,7 @@ redirect_from:
       </div>
     </article>
     <article class="history-entry">
-      <div class="history-entry__mark" aria-hidden="true">FZU</div>
+      <div class="history-entry__mark" aria-hidden="true"><img src="{{ '/images/fuzhou-logo.png' | relative_url }}" alt="" width="316" height="316" loading="lazy" decoding="async"></div>
       <div>
         <div class="history-entry__header"><h3><a href="https://www.fzu.edu.cn/">Fuzhou University</a></h3><span class="history-entry__date">Sep 2021 – Jun 2025</span></div>
         <p>Bachelor's degree</p>
@@ -86,7 +86,7 @@ redirect_from:
 <section class="academic-section" id="experience">
   <h2><span class="section-emoji" aria-hidden="true">💻</span> Experience</h2>
   <article class="history-entry">
-    <div class="history-entry__mark history-entry__mark--kuaishou" aria-hidden="true">KS</div>
+    <div class="history-entry__mark" aria-hidden="true"><img src="{{ '/images/kuaishou-logo.png' | relative_url }}" alt="" width="1024" height="1024" loading="lazy" decoding="async" title="Logo source: kuaishou.com"></div>
     <div>
       <div class="history-entry__header"><h3>Kuaishou</h3><span class="history-entry__date">Oct 2025 – Present</span></div>
       <p>Algorithm Intern · Beijing, China</p>
