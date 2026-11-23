@@ -60,17 +60,6 @@ redirect_from:
       </div>
     </div>
   </article>
-  <section id="tutorials" aria-labelledby="tutorials-heading">
-    <h3 id="tutorials-heading">Tutorials</h3>
-    <ol>
-      <li>
-        <strong>[KDD’2026]</strong> Xiaopeng Li, Yejing Wang, Honghui Bao, Bo Chen, Kuo Cai, Wenlin Zhang, Ziwei Liu, Sheng Zhang, Binhao Wang, Qinglin Jia, Qiang Luo, Ruiming Tang, and Xiangyu Zhao.
-        <cite><a href="https://applied-machine-learning-lab.github.io/KDD2026_GenRec_Tutorial/">Tutorial on Generative Recommendation: Foundations and Frontiers</a></cite>.
-        32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
-        <br>Section 4, <em>Optimization Strategies</em>, co-presented by Wenlin Zhang and <strong>Kaifeng Guo</strong>.
-      </li>
-    </ol>
-  </section>
 </section>
 
 <section class="academic-section" id="education">
